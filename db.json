@@ -49,11 +49,5 @@
       "balance": 3027.51,
       "description": "PayU Spółka Akcyjna",
     }
-  ],
-  "transactionTypes": {
-    "1": "Wpływy - inne",
-    "2": "Wydatki - zakupy",
-    "3": "Wpływy - wynagrodzenie",
-    "4": "Wydatki - inne",
-  }
+  ]
 }
