@@ -14,7 +14,6 @@
       "balance": 4572.18,
       "description": "PayU Spółka Akcyjna",
     },
-
     {
       "date": "2022-11-12",
       "type": 3,
@@ -22,7 +21,6 @@
       "balance": 2420.47,
       "description": "Wynagrodzenie z tytułu Umowy o Pracę",
     },
-
     {
       "date": "2022-11-10",
       "type": 2,
@@ -50,13 +48,7 @@
       "amount": -78.33,
       "balance": 3027.51,
       "description": "PayU Spółka Akcyjna",
-    },
-  ],
-  "transactionTypes": {
-    "1": "Wpływy - inne",
-    "2": "Wydatki - zakupy",
-    "3": "Wpływy - wynagrodzenie",
-    "4": "Wydatki - inne",
-  }
+    }
+  ]
 }
 
