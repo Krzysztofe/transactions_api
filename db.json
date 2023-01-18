@@ -1,11 +1,3 @@
  {
-  "transactions": [
-    {
-      "date": "2022-11-12",
-      "type": 2,
-      "amount": -231.56,
-      "balance": 4337.25,
-      "description": "Biedronka 13",
-    }
-  ]
+  "transactions": ["pp"  ]
 }
