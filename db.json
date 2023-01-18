@@ -1,3 +1,154 @@
- {
-  "transactions": ["pp"  ]
+{
+  "fundations": [
+    {
+      "id": 1,
+      "type": "fundacja",
+      "name": "1",
+      "goals": "eeeeeeeeeeeeeee",
+      "stuff": "ttt, ooo, uuu"
+    },
+    {
+      "id": 2,
+      "type": "fundacja",
+      "name": "2",
+      "goals": "eeeeeeeeeeeeeee",
+      "stuff": "ttt, ooo, uuu"
+    },
+    {
+      "id": 3,
+      "type": "fundacja",
+      "name": "3",
+      "goals": "eeeeeeeeeeeeeee",
+      "stuff": "ttt, ooo, uuu"
+    },
+    {
+      "id": 4,
+      "type": "fundacja",
+      "name": "4",
+      "goals": "eeeeeeeeeeeeeee",
+      "stuff": "ttt, ooo, uuu"
+    },
+    {
+      "id": 5,
+      "type": "fundacja",
+      "name": "5",
+      "goals": "eeeeeeeeeeeeeee",
+      "stuff": "ttt, ooo, uuu"
+    },
+    {
+      "id": 6,
+      "type": "fundacja",
+      "name": "6",
+      "goals": "eeeeeeeeeeeeeee",
+      "stuff": "ttt, ooo, uuu"
+    },
+    {
+      "id": 7,
+      "type": "fundacja",
+      "name": "7",
+      "goals": "eeeeeeeeeeeeeee",
+      "stuff": "ttt, ooo, uuu"
+    },
+    {
+      "id": 8,
+      "type": "fundacja",
+      "name": "8",
+      "goals": "eeeeeeeeeeeeeee",
+      "stuff": "ttt, ooo, uuu"
+    },
+    {
+      "id": 9,
+      "type": "fundacja",
+      "name": "9",
+      "goals": "eeeeeeeeeeeeeee",
+      "stuff": "ttt, ooo, uuu"
+    }
+  ],
+  "ngo": [
+    {
+      "id": 10,
+      "type": "ngo",
+      "name": "1",
+      "goals": "yyyyy",
+      "stuff": "xx, cc, ee"
+    },
+    {
+      "id": 11,
+      "type": "ngo",
+      "name": "2",
+      "goals": "yyyyy",
+      "stuff": "xx, cc, ee"
+    },
+    {
+      "id": 12,
+      "type": "ngo",
+      "name": "3",
+      "goals": "yyyyy",
+      "stuff": "xx, cc, ee"
+    },
+    {
+      "id": 13,
+      "type": "ngo",
+      "name": "4",
+      "goals": "yyyyy",
+      "stuff": "xx, cc, ee"
+    },
+    {
+      "id": 14,
+      "type": "ngo",
+      "name": "5",
+      "goals": "yyyyy",
+      "stuff": "xx, cc, ee"
+    },
+    {
+      "id": 15,
+      "type": "ngo",
+      "name": "6",
+      "goals": "yyyyy",
+      "stuff": "xx, cc, ee"
+    }
+  ],
+  "collections": [
+    {
+      "id": 16,
+      "type": "zbiórka",
+      "name": "1",
+      "goals": "yyyyy",
+      "stuff": "xx, cc, ee"
+    },
+    {
+      "id": 17,
+      "type": "zbiórka",
+      "name": "2",
+      "goals": "yyyyy",
+      "stuff": "xx, cc, ee"
+    },
+    {
+      "id": 18,
+      "type": "zbiórka",
+      "name": "3",
+      "goals": "yyyyy",
+      "stuff": "xx, cc, ee"
+    }
+  ],
+  "summary": [
+    {
+      "id": 19,
+      "number": "1",
+      "activity": "oddanych worków",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum delectus dolorum ducimus laborum minima omnis porro quis veritatis!"
+    },
+    {
+      "id": 20,
+      "number": "2",
+      "activity": "wspartych organizacji",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum delectus dolorum ducimus laborum minima omnis porro quis veritatis!"
+    },
+    {
+      "id": 21,
+      "number": "3",
+      "activity": "zorganizowanych zbiórek",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum delectus dolorum ducimus laborum minima omnis porro quis veritatis!"
+    }
+  ]
 }
